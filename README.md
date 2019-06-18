@@ -8,7 +8,7 @@
 </div>
   
 ## Objective
-Using the Arduino's ESP8266 Board and a DHT22 Humidity Sensor, flash firmware from Luftdaten (a Code for Germany project) to collect air pollution data (fine particulates PM2.5 and PM10). 
+Using the Arduino's ESP8266 Board, an SDH11 Dust Sensor, and a DHT22 Humidity Sensor, flash firmware from Luftdaten (a Code for Germany project) to collect air pollution data (fine particulates PM2.5 and PM10). 
 
 ## Materials Needed and Cost Estimates
 ### <center>Estimated Cost (U.S. Dollar, 2019)</center>
