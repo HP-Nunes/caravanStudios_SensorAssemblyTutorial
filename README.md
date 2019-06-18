@@ -4,7 +4,7 @@
 <br>
   
 <div>
-<a href="https://luftdaten.info/kontakt/" target=_blank title="Luftdaten's contact page" target=_blank><img align="center" src="img/luftdatenLogo.png" width="200"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.arduino.cc/en/Main/FAQ#toc2" target=_blank><img align="center" src="img/ArduinoCommunityLogo.png" width="250" title="Arduino" target=_blank/></a> 
+<a href="https://luftdaten.info/kontakt/" target=_blank title="Luftdaten's contact page" target=_blank><img align="center" src="img/luftdatenLogo.png" width="200"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.arduino.cc/en/Main/FAQ#toc2" target=_blank><img align="center" src="img/ArduinoCommunityLogo.png" width="250" title="Arduino" target=_blank/></a> 
 </div>
   
 ## Objective
