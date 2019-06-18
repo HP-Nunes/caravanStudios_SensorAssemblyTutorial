@@ -1,5 +1,5 @@
 <a href="https://www.caravanstudios.org/about" target=_blank title="Caravan Studios"><img align="left" width="200" height="200" src="img/csLogo.png" target=_blank/>
-# <center>How to build your own air monitoring sensor for less than $50: A Step-by-Step Tutorial</center>
+# <center>How to build your own low-cost air monitoring sensor: A Step-by-Step Tutorial</center>
 <br>
 <br>
   
