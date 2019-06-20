@@ -38,5 +38,5 @@ ID | Components | [Amazon](https://www.amazon.com/) | [AliExpress](https://www.a
 
 The total may range from an estimated minimum of <b>40.17</b> to an estimated maximum of <b>106.61</b> US Dollars (not including shipping).
 
-##
-<img align="left" width="600" height="600" src="img/goodjob1.gif">
+## 
+<img align="center" width="600" height="600" src="img/goodjob1.gif">
