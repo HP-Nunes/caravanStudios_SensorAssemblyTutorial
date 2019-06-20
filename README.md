@@ -2,13 +2,23 @@
 # <center>How to build your own low-cost air monitoring sensor: A Step-by-Step Tutorial</center>
 <br>
 <br>
-  
+
+## Open-source Software and Hardware Collaborators
 <div>
 <a href="https://luftdaten.info/kontakt/" target=_blank title="Luftdaten's contact page" target=_blank><img align="center" src="img/luftdatenLogo.png" width="200"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.arduino.cc/en/Main/FAQ#toc2" target=_blank><img align="center" src="img/ArduinoCommunityLogo.png" width="250" title="Arduino" target=_blank/></a> 
 </div>
   
 ## Objective
-Using the Arduino's ESP8266 Board, an SDH11 Dust Sensor, and a DHT22 Humidity Sensor, flash firmware from Luftdaten (a Code for Germany project) to collect air pollution data (fine particulates PM2.5 and PM10). 
+Using the Arduino's ESP8266 Board, an SDH11 Dust Sensor, and a DHT22 Humidity Sensor, flash firmware from <a href="https://luftdaten.info/en/home-en/" target=_blank>Luftdaten</a>--a Code for Germany project--to collect air particle pollution (PM) data.
+
+## About Fine Particle Pollution
+Background on <b>PM</b> from the <a href="https://www.airnow.gov/index.cfm?action=aqibasics.particle" target=_blank>EPA</a>:
+> Particle pollution, also called particulate matter or PM, is a mixture of solids and liquid droplets floating in the air. Some particles are released directly from a specific source, while others form in complicated chemical reactions in the atmosphere.
+Particles come in a wide range of sizes. Particles less than or equal to 10 micrometers in diameter are so small that they can get into the lungs, potentially causing serious health problems. Ten micrometers is less than the width of a single human hair.
+>* Coarse dust particles (PM10) are 2.5 to 10 micrometers in diameter. Sources include crushing or grinding operations and dust stirred up by vehicles on roads.
+>* Fine particles (PM2.5) are 2.5 micrometers in diameter or smaller, and can only be seen with an electron microscope. Fine particles are produced from all types of combustion, including motor vehicles, power plants, residential wood burning, forest fires, agricultural burning, and some industrial processes.
+
+<a href="https://www.airnow.gov/index.cfm?action=aqibasics.particle" target=_blank title="AirNow"><img align='center' width="500" height="400" src="https://www.airnow.gov/images/pmwidthgraphic.jpg">
 
 ## Materials Needed and Cost Estimates
 ### <center>Estimated Cost (U.S. Dollar, 2019)</center>
@@ -27,3 +37,6 @@ ID | Components | [Amazon](https://www.amazon.com/) | [AliExpress](https://www.a
 <br>
 
 The total may range from an estimated minimum of <b>40.17</b> to an estimated maximum of <b>106.61</b> US Dollars (not including shipping).
+
+##
+<img align="left" width="200" height="200" src="img/goodjob1.gif">
